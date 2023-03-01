@@ -109,7 +109,7 @@ Configs to be set:
 | ```hoodie.deltastreamer.keygen.timebased.timestamp.type```    | One of the timestamp types supported(UNIX_TIMESTAMP, DATE_STRING, MIXED, EPOCHMILLISECONDS, SCALAR) |
 | ```hoodie.deltastreamer.keygen.timebased.output.dateformat```| Output date format | 
 | ```hoodie.deltastreamer.keygen.timebased.timezone```| Timezone of the data format| 
-| ```oodie.deltastreamer.keygen.timebased.input.dateformat```| Input date format |
+| ```hoodie.deltastreamer.keygen.timebased.input.dateformat```| Input date format |
 
 Let's go over some example values for TimestampBasedKeyGenerator.
 
